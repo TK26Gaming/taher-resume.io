@@ -1,84 +1,69 @@
-<div align="center">
+# Taher Kachwala — Game Developer & QA Tester
 
-Hi, I'm Taher Kachwala 👋
-🎮 Game Developer | QA Tester
-Building gameplay experiences, solving technical challenges, and helping games ship with quality.
+📍 **Location:** Pune, Maharashtra, India  
+📧 **Email:** [tahertamim.kachwala53@gmail.com](mailto:tahertamim.kachwala53@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/taher-kachwala-2897b535a](https://www.linkedin.com/in/taher-kachwala-2897b535a/)  
+📁 **Portfolio Drive:** [Google Drive Portfolio](https://drive.google.com/drive/folders/1MuY5Lzw3mvaNIBXk3KGbPT-SoichfUhQ?usp=sharing)
 
+---
 
-</div>
+## 👤 About Me
 
-👨‍💻 About Me
-- 🎮 Game Developer and QA Tester with hands-on experience in Unity, Unreal Engine, and Minecraft mod testing.
-- 🧪 Experienced in testing gameplay, identifying bugs, checking compatibility and stability, and documenting QA feedback.
-- 🤝 Currently working at Craftify Productions as a Manager & QA Tester, coordinating client communication, project requirements, timelines, testing, and deliverables.
-- 🕹️ Interested in gameplay mechanics, game systems, level design, and creating engaging player experiences.
-🛠️ Skills & Tools
-Game Engines
+I am a **Game Developer** and **QA Tester** with hands-on experience in **Unity**, **Unreal Engine**, gameplay debugging, and Minecraft mod testing. Currently, I serve as a Manager & QA Tester at Craftify Productions, where I bridge client needs, team coordination, and quality assurance. Passionate about game mechanics, interactive physics, and building immersive player experiences.
 
+---
 
-Programming & Modding
+## 🎮 Featured Projects
 
+| Project | Engine / Tech | Description |
+| :--- | :--- | :--- |
+| **Anuja ka Badia** | Unreal Engine | 3D story-based revenge game featuring custom UI and interactive gameplay mechanics. |
+| **Last Signal** | Unreal Engine | 3D survival island escape game focused on environmental exploration and survival logic. |
+| **Cat Game** | Unity, C# | Unique 2D voice-input game where players control jump heights using microphone input. |
+| **Space Thrust** | Unity, C# | Physics-based rocket flight game featuring complex obstacle navigation challenges. |
+| **Unfair Jump** | Unity, C# | 2D platformer for PC and Mobile built around continuous, precision jumping mechanics. |
+| **Air Hockey** | Unity, C# | 2D Android game with realistic physics simulation and responsive touch controls. |
+| **Slot Game** | Unity WebGL | Browser-based 2D slot machine game featuring customized UI and probability logic. |
 
+---
 
+## 🛠️ Technical & Soft Skills
 
-QA & Design
+### **Game Development & Design**
+- **Engines:** Unity, Unreal Engine
+- **Languages:** C#, C++, Java
+- **Design & Content:** Gameplay Design, UI/UX Implementation, Level Design, Photoshop, Video Editing
 
+### **Quality Assurance & Tools**
+- Minecraft Mod Testing (CurseForge, Minecraft Forge)
+- Bug Tracking, Crash Reporting & QA Documentation
+- Compatibility & Stability Testing, Gameplay Balancing
 
+### **Soft Skills**
+- Project Coordination & Client Communication
+- Problem-Solving & Adaptability
+- Team Collaboration & Task Management
 
-- Game testing, bug reporting, compatibility and stability testing
-- Gameplay design, UI/UX, level design, Photoshop, and video editing
-- Communication, problem-solving, teamwork, creativity, and adaptability
-🎮 Featured Projects
-🗡️ Anuja Ka Badla
-A 3D story-based revenge game developed in Unreal Engine.
-- Worked on UI and gameplay mechanics.
-- Tech: Unreal Engine
-🏝️ Last Signal
-A 3D survival island escape game developed in Unreal Engine.
-- Tech: Unreal Engine
-🐱 Cat Game
-A 2D Unity game where the player controls a cat's jumps using microphone input.
-- Tech: Unity, C#
-🚀 Space Thrust
-A physics-based rocket game featuring thrust controls, landing, and obstacle challenges.
-- Tech: Unity, C#
-🟣 Unfair Jump
-A 2D platformer for PC and mobile built around continuous-jump mechanics.
-- Tech: Unity, C#
-🏒 Air Hockey
-An Android air hockey game featuring paddle controls, scoring, and physics-based gameplay.
-- Tech: Unity, C#
-🎰 Slot Game
-A slot machine game developed for WebGL using Unity.
-- Tech: Unity, WebGL
-Project demos and source code: Add repository links, gameplay videos, and screenshots as you publish each project.
+---
 
-🧪 Professional Experience
-Manager & QA Tester — Craftify Productions
-August 2026 – Present
-- Manage client communication and project requirements.
-- Coordinate project timelines, tasks, and deliverables.
-- Oversee projects from client requests through testing and release.
-- Test Minecraft mods, track bugs, and share QA feedback.
-QA Tester — Craftify Productions
-November 2025 – July 2026
-- Tested Minecraft mods and identified gameplay bugs.
-- Performed compatibility and stability checks.
-- Worked with CurseForge and Minecraft Forge environments.
-- Reported crashes, bugs, and gameplay-balancing issues.
-- Assisted with final mod release testing and QA documentation.
-🎓 Education
-Bachelor of Computer Applications (BCA) — Game Development
-Ajeenkya DY Patil School of Engineering, Pune
-Graduated: 2026
+## 💼 Work Experience
 
-Higher Secondary Education — Science
-Hill Green High School, Pune
-🤝 Let's Connect
-- LinkedIn: Taher Kachwala
-- Portfolio / Projects: Google Drive Portfolio
-- Email: tahertamim.kachwala53@gmail.com
-<div align="center">
+### **Craftify Productions**
+* **Manager & QA Tester** | *Aug 2026 – Present*
+  - Oversaw end-to-end project execution from initial client requests to final testing and release.
+  - Managed client communications, scope alignment, and project timelines.
+  - Performed rigorous testing on Minecraft mods, logged bugs, and provided detailed feedback to development teams.
 
-Thanks for visiting my profile! Feel free to explore my projects and connect with me.
-</div>
+* **QA Tester** | *Nov 2025 – Jul 2026*
+  - Executed QA checks across Minecraft Forge environments for stability and cross-mod compatibility.
+  - Reported crashes, performance issues, and gameplay balancing bugs.
+  - Documented testing procedures and assisted in final mod releases on CurseForge.
+
+---
+
+## 🎓 Education
+
+* **Bachelor of Computer Applications (BCA) – Game Development**  
+  *Ajeenkya DY Patil School of Engineering, Pune* (Graduated 2026)
+* **Higher Secondary Education (Science)**  
+  *Hill Green High School, Pune*
