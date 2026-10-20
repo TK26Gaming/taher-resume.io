@@ -3,7 +3,7 @@
 📍 **Location:** Pune, Maharashtra, India  
 📧 **Email:** [tahertamim.kachwala53@gmail.com](mailto:tahertamim.kachwala53@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/taher-kachwala-2897b535a](https://www.linkedin.com/in/taher-kachwala-2897b535a/)  
-📁 **Portfolio Drive:** [Google Drive Portfolio](https://drive.google.com/drive/folders/1MuY5Lzw3mvaNIBXk3KGbPT-SoichfUhQ?usp=sharing)
+📁 **Portfolio Drive:** [Google Drive Portfolio](https://drive.google.com/drive/folders/1MuY5Lzw3mvaNlBXk3KGbPT-SoichfUhQ?usp=sharing)
 
 ---
 
